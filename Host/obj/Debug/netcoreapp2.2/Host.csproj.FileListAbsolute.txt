@@ -1,0 +1,14 @@
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\bin\Debug\netcoreapp2.2\Host.deps.json
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\bin\Debug\netcoreapp2.2\Host.runtimeconfig.json
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\bin\Debug\netcoreapp2.2\Host.runtimeconfig.dev.json
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\bin\Debug\netcoreapp2.2\Host.dll
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\bin\Debug\netcoreapp2.2\Host.pdb
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\obj\Debug\netcoreapp2.2\Host.csprojAssemblyReference.cache
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\obj\Debug\netcoreapp2.2\Host.csproj.CoreCompileInputs.cache
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\obj\Debug\netcoreapp2.2\Host.RazorAssemblyInfo.cache
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\obj\Debug\netcoreapp2.2\Host.RazorAssemblyInfo.cs
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\obj\Debug\netcoreapp2.2\Host.AssemblyInfoInputs.cache
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\obj\Debug\netcoreapp2.2\Host.AssemblyInfo.cs
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\obj\Debug\netcoreapp2.2\Host.RazorTargetAssemblyInfo.cache
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\obj\Debug\netcoreapp2.2\Host.dll
+C:\Users\kmushore\Videos\DevOps\DevopsAzure\Host\obj\Debug\netcoreapp2.2\Host.pdb
