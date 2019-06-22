@@ -1,0 +1,40 @@
+info: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[0]
+      User profile is available. Using 'C:\Users\kmushore\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+Hosting environment: Development
+Content root path: C:\Users\kmushore\Videos\DevOps\DevopsAzure\Web
+Now listening on: http://127.0.0.1:38098
+Application started. Press Ctrl+C to shut down.
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:44323/  
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[3]
+      Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web.Controllers.HomeController (Web).
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method Web.Controllers.HomeController.Index (Web) - Validation state: Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action method Web.Controllers.HomeController.Index (Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.5863ms.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[1]
+      Executing ViewResult, running view Index.
+info: Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor[4]
+      Executed ViewResult - view Index executed in 374.2775ms.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action Web.Controllers.HomeController.Index (Web) in 405.4888ms
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 614.846ms 200 text/html; charset=utf-8
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:44323/lib/jquery/dist/jquery.js  
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:44323/lib/bootstrap/dist/js/bootstrap.bundle.js  
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[6]
+      The file /lib/bootstrap/dist/js/bootstrap.bundle.js was not modified
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[6]
+      The file /lib/jquery/dist/jquery.js was not modified
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:44323/lib/bootstrap/dist/css/bootstrap.css  
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 15.395ms 304 application/javascript
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 17.8543ms 304 application/javascript
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[6]
+      The file /lib/bootstrap/dist/css/bootstrap.css was not modified
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 7.1607ms 304 text/css
